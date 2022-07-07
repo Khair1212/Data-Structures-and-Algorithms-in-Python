@@ -46,3 +46,11 @@ TP_05. [Max Consecutive Ones (Medium)](https://leetcode.com/explore/learn/card/a
 #### Sliding Window Technique
 SW_01. [Minimum Size Subarray Sum (Medium)](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1299/) \
 
+## Linked List
+
+#### Singly Linked List
+SL_01. [Design Linked List (Medium)](https://leetcode.com/explore/learn/card/linked-list/209/singly-linked-list/1290/)
+##### Two Pointer Technique
+SL_TP_01. [Linked List Cycle (Easy)](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1212/)
+SL_TP_02. [Linked List Cycle II (Medium)](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1214/)
+
