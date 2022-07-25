@@ -49,8 +49,25 @@
 ## Linked List
 
 * #### Singly Linked List
-  SL_01. [Design Linked List (Medium)](https://leetcode.com/explore/learn/card/linked-list/209/singly-linked-list/1290/)
+  SL_01. [Design Linked List (Medium)](https://leetcode.com/explore/learn/card/linked-list/209/singly-linked-list/1290/) \
+  SL_02. [Merge Two Sorted Lists (Easy)](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1227/) \
+  SL_03. [Add Two Numbers (Medium)](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1228/) \
+  SL_04. [Rotate List (Medium)](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1295/)
   * #### Two Pointer Technique
-      SL_TP_01. [Linked List Cycle (Easy)](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1212/) \
-      SL_TP_02. [Linked List Cycle II (Medium)](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1214/)
+      SL_2P_01. [Linked List Cycle (Easy)](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1212/) \
+      SL_2P_02. [Linked List Cycle II (Medium)](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1214/) \
+      SL_2P_03. [Intersection of Two Linked Lists (Medium)](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1215/) \
+      SL_2P_04. [Remove Nth Node From End of List (Medium)](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1296/) 
+  * #### Three Pointer Technique
+      SL_3P_01. [Reverse Linked List (Medium)](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1205/) \
+      SL_3P_02. [Remove Linked List Elements (Medium)](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1207/) \
+      SL_3P_03. [Odd Even Linked List (Medium)](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1208/) \
+      SL_3P_04. [Palindrome Linked List (Easy)](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1209/)
+
+* #### Doubly Linked List 
+  DL_01. [Design Linked List (Medium)](https://leetcode.com/explore/learn/card/linked-list/210/doubly-linked-list/1294/) \
+  DL_02. [Flatten a Multilevel Doubly Linked List (Medium)](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1225/) \
+  DL_03. [Copy List with Random Pointer (Medium)](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1229/)  
+  
+      
 
