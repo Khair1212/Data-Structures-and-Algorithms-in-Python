@@ -1,5 +1,7 @@
 # Data-Structures-and-Algorithms-in-Python
 
+**NeetCode Blind 75 (*)** [Medium Explanation Blog Linked]
+
 ## Arrays
 
 * #### Insert/Delete
@@ -9,7 +11,8 @@
     ID_04. [Duplicate Zeros (Easy)](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/) \
     ID_05. [Merge Sorted Array (Easy)](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/) \
     ID_06. [Remove Element (Easy)](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3247/) \
-    ID_07. [Remove Duplicates from Sorted Array (Easy)](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/) 
+    ID_07. [Remove Duplicates from Sorted Array (Easy)](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/) \
+   
 * #### Searching 
     S_01. [Check If N and Its Double Exist (Easy)](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/) \
     S_02. [Valid Mountain Array (Easy)](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/)
@@ -25,7 +28,16 @@
     O_03. [Find All Numbers Disappeared in an Array (Easy)](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3270/) \
     O_04. [Find Pivot Index (Easy)](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/) \
     O_05. [Largest Number At Least Twice of Others (Easy)](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1147/) \
-    O_06. [Plus One (Easy)](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/)
+    O_06. [Plus One (Easy)](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/) \
+    O_07. [Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/) (Blind 75 [[Medium Blog]](https://medium.com/@khairahmad6/leetcode-crack-contains-duplicate-easy-217-fb9b209c26a6)) \
+    O_08. [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/) (Blind 75 [[Medium Blog]](https://medium.com/@khairahmad6/leetcode-crack-valid-anagram-easy-242-8c9a1024e61f)) \
+    O_09. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/) (Blind 75 [[Medium Blog]](https://medium.com/@khairahmad6/leetcode-crack-two-sum-easy-01-6ffac4fd9a42)) \
+    O_10. [Group Anagrams (Medium)](https://leetcode.com/problems/valid-anagram/) (Blind 75 [[Medium Blog]](https://medium.com/@khairahmad6/leetcode-crack-group-anagrams-medium-49-41a23fcb031c)) \
+    O_11. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/) (Blind 75 [[Medium Blog](https://medium.com/@khairahmad6/leetcode-crack-top-k-frequent-elements-medium-347-91c5fe2835ec)) \
+    O_12. [Product of Array Except Self (Medium)](https://leetcode.com/problems/product-of-array-except-self/) (Blind 75 [[Medium Blog]](https://medium.com/@khairahmad6/leetcode-crack-product-of-array-except-self-medium-238-3954c533f150))  \
+    O_13. [Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/) (Blind 75 [[Medium Blog]](https://medium.com/@khairahmad6/leetcode-crack-longest-consecutive-sequence-medium-128-e27c9a061995)) \
+    O_14. [Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/) (Blind 75 [[Medium Blog]](https://medium.com/@khairahmad6/leetcode-crack-valid-palindrome-easy-125-76da4270d46a))
+    
 * #### 2D Array
     2D_01. [Diagonal Traverse (Medium)](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1167/) \
     2D_02. [Spiral Matrix (Medium)](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1168/) \
